@@ -25,7 +25,7 @@
 #define MAXENEMYS 6
 
 
-typedef enum GameStates
+ enum GameStates
 {
 	Start,
 	GamePlay,
